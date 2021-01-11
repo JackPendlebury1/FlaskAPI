@@ -19,3 +19,9 @@ _I decided not to go further with flask for web development_
 * pipenv shell
 * pip freeze > requirements.txt
 * pip install -r requirements.txt
+
+### This includes
+[1] flask
+[2] sqlalchemy
+
+**_what this does is it accepts an input puts it into a database of movies with different attributes. you can then find the movies and delete it_**
