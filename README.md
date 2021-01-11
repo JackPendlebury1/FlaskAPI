@@ -10,6 +10,7 @@ _I decided not to go further with flask for web development_
 ### My focus turn to fast api and serverless applications, creating microservices.
 
  [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+ 
  [Fastapi](https://fastapi.tiangolo.com/)
 
 
